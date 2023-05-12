@@ -1,9 +1,9 @@
 import { useState } from 'react'
 import Logo from './assets/diagrama.png'
-import viteLogo from '/vite.svg'
+
 import './App.css'
 
-function App() {
+function Home() {
   
 
   return (
@@ -43,4 +43,4 @@ No século XX, os diagramas para representação de conjuntos passaram por novos
   
 }
 
-export default App
+export default Home
